@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837307420188",
+    "project_id": "sprints-1be8b",
+    "storage_bucket": "sprints-1be8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837307420188:android:54e53cc52b872abcc2d9d9",
+        "android_client_info": {
+          "package_name": "com.example.simple_sample_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837307420188-meg7rlpsor2vvvl07tgo7muc4nkuq8j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqqtDyv6Pb06tummIiyl65R1EiYoD_Cv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837307420188-meg7rlpsor2vvvl07tgo7muc4nkuq8j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
